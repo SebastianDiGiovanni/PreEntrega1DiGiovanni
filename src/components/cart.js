@@ -6,6 +6,6 @@ export const Cart = () => {
             <h3>CARRITO</h3>
         </div>
     )
-}
+    }
 
 
